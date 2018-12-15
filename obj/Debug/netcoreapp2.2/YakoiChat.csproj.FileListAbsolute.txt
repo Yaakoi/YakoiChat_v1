@@ -1,0 +1,16 @@
+D:\YakoiChat\YakoiChat\bin\Debug\netcoreapp2.2\YakoiChat.deps.json
+D:\YakoiChat\YakoiChat\bin\Debug\netcoreapp2.2\YakoiChat.runtimeconfig.json
+D:\YakoiChat\YakoiChat\bin\Debug\netcoreapp2.2\YakoiChat.runtimeconfig.dev.json
+D:\YakoiChat\YakoiChat\bin\Debug\netcoreapp2.2\YakoiChat.dll
+D:\YakoiChat\YakoiChat\bin\Debug\netcoreapp2.2\YakoiChat.pdb
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.csprojAssemblyReference.cache
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.csproj.CoreCompileInputs.cache
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.RazorAssemblyInfo.cache
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.RazorAssemblyInfo.cs
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.AssemblyInfoInputs.cache
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.AssemblyInfo.cs
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.RazorTargetAssemblyInfo.cache
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.dll
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.pdb
+D:\YakoiChat\YakoiChat\bin\Debug\netcoreapp2.2\YakoiChat.xml
+D:\YakoiChat\YakoiChat\obj\Debug\netcoreapp2.2\YakoiChat.xml
